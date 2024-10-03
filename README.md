@@ -22,7 +22,7 @@
 
 <h2> 📛 Badges:</h2>
 
-![introduction-to-cybersecurity](https://github.com/user-attachments/assets/e2de54fe-2463-4e41-a453-2be2264f1ddb width= "200" hieght= "200")
+![introduction-to-cybersecurity](https://github.com/user-attachments/assets/e2de54fe-2463-4e41-a453-2be2264f1ddb)
 
 
 
