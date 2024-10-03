@@ -21,7 +21,8 @@
 <h2> 🎓 Certifications:</h2>
 
 <h2> 📛 Badges:</h2>
-<img src="https://freeimage.host/i/dbGuirP" />
+
+![introduction-to-cybersecurity](https://github.com/user-attachments/assets/e2de54fe-2463-4e41-a453-2be2264f1ddb)
 
 
 
