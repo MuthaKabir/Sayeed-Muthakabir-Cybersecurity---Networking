@@ -6,26 +6,23 @@
   - [Will be explaining and demonstrate how I built an On-Premises Domain environment, created a domain controller, and leveraged Splunk for telemetry visualization and effective detection and monitoring.](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2> 🎓 Certifications:</h2>
 
+<img src="https://github.com/user-attachments/assets/9ba792d5-aef2-4f7b-9c7b-c7dc322526f8"  width=200 hieght=200>
+<img src="https://github.com/user-attachments/assets/51695100-6782-4f7f-8f66-f2966f24b6a8"  width=200 hieght=200>
+<img src="https://github.com/user-attachments/assets/b879826f-d00b-415b-b27a-12bd65aaf99b"  width=200 hieght=200>
+<img src="https://github.com/user-attachments/assets/6834a381-97ff-4284-8502-bea005c40799"  width=200 hieght=200>
+<img src="https://github.com/user-attachments/assets/ec065634-77b4-483a-83e6-7cbcc38d9f77"  width=200 hieght=200>
+
+
 <h2> 📛 Badges:</h2>
 
-![introduction-to-cybersecurity](https://github.com/user-attachments/assets/e2de54fe-2463-4e41-a453-2be2264f1ddb)
 
-
-
+<img src="https://github.com/user-attachments/assets/e2de54fe-2463-4e41-a453-2be2264f1ddb"  width=100 hieght=100>
+<img src="https://github.com/user-attachments/assets/9fbf1737-8a42-446a-9cf4-bc7c0a9e1ba1"  width=100 hieght=100>
+<img src="https://github.com/user-attachments/assets/c89fed72-f9e8-4717-b08e-f23654e0e80e"  width=100 hieght=100>
 
 
 
